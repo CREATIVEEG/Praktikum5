@@ -5,6 +5,7 @@
 |  2 | Praktikum  | [Menuju Kesini](https://github.com/RhendyDikiN/Praktikum4#praktikum) |
 |  3 | Flowchart  | [Menuju Kesini](https://github.com/RhendyDikiN/Praktikum4#flowchart) |
 |  4 | Penutup    | [Menuju Kesini](https://github.com/RhendyDikiN/Praktikum4#penutup)   |
+
 Praktikum kali ini berisi tentang fungsi dictionary dari python. Seperti biasa, Saya akan membuat Latihan, Praktikum, beserta Flowchartnya. Langsung saja masuk ke Latihan :
 ## Latihan
 Isi program dari latihan dictionary ini adalah sebagai berikut :<br/>
