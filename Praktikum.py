@@ -73,7 +73,7 @@ while True:
             print("="*78)
             print("|                               Daftar Mahasiswa                             |")
             print("="*78)
-            print("|No. | Nama            |       NIM       |  UTS  |  UAS  |  Tugas  |  Akhir  |")
+            print("| NO |     NIM      |       Nama       |  UTS  |  UAS  |  Tugas  |   Akhir   |")
             print("="*78)
             print("|                                TIDAK ADA DATA                              |")
             print("="*78)
