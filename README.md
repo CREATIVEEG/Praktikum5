@@ -153,7 +153,7 @@ Nah, semua syntax / coding ini. Jika dijalankan atau RUN, maka akan menghasilkan
 
 Jadi itulah program yang telah saya buat, adapun untuk Flowchart dari praktikum ini :
 ### Flowchart
-![img.ss](screenshots/flowchart.png)<br/><br/>
+![img.ss](screenshots/Flowchart.png)<br/><br/>
 
 ## Penutup
 Sekian dari tugas Modul Praktikum 5 yang sudah Saya kerjakan. Jika ada kesalahan kata atau pengetikan, Saya mohon maaf... Sekian, Saya ucapkan Terimakasih<br/><br/>
